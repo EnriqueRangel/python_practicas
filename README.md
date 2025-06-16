@@ -1,6 +1,6 @@
 # 🐍 Prácticas de Python
 
-Este repositorio contiene ejercicios que realizo mientras aprendo Python, funciones, estructuras de control, y herramientas para ciencia de datos. Es parte de mi proceso para convertirme en Machine Learning Engineer. 🚀
+Este repositorio contiene ejercicios que realizo mientras aprendo Python, funciones, estructuras de control, y herramientas para ciencia de datos. Es parte de mi proceso para convertirme en AI/ML Engineer. 🚀
 
 ## 📁 Estructura
 
