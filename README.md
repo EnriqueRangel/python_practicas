@@ -15,4 +15,4 @@ Este repositorio contiene ejercicios que realizo mientras aprendo Python, funcio
 ---
 
 > Hecho con amor y mucha práctica 💻✨  
-> Sígueme mientras me convierto en Data Scientist 🤓
+> Sígueme mientras me convierto en AI/ML Engineer 🤓
